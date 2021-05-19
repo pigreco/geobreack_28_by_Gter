@@ -18,7 +18,7 @@ GeoBreak 28 - alla scoperta delle espressioni di QGIS
   - [QGIS e le espressioni](#qgis-e-le-espressioni)
   - [Contatti](#contatti)
     - [Totò Fiandaca](#totò-fiandaca)
-      - [Sitografia](#sitografia)
+    - [Sitografia](#sitografia)
 - [GeoBreak 28](#geobreak-28)
 - [Riferimenti utili](#riferimenti-utili)
 - [Cosa c'è in questo repo](#cosa-cè-in-questo-repo)
@@ -31,7 +31,7 @@ GeoBreak 28 - alla scoperta delle espressioni di QGIS
 
 **DESCRIZIONE**: <br> Obiettivo di questo GeoBreak è quello di evidenziare le potenzialità delle espressioni di **QGIS**: come usarle, dove usarle e perché non possiamo fare a meno del Field Calc di QGIS.
 
-<p align="center"><a href="https://www.mastergiscience.it/it_IT/2020/06/01/estate-gis-2020/" target="_blank"><img src="./imgs/..." width="500" title="EstateGIS"></a></p>
+<p align="center"><a href="https://" target="_blank"><img src="./imgs/..." width="500" title="GeoBreak 28"></a></p>
 
 ---
 
@@ -40,7 +40,7 @@ GeoBreak 28 - alla scoperta delle espressioni di QGIS
 
 ## Relatore
 
-- 👨‍🦲 **Totò FIANDACA** <br>(Membro [OpenDataSicilia](http://opendatasicilia.it/) (2014) , Membro [QGIS Italia](http://qgis.it/) (2015), Socio [GFOSS.it](https://gfoss.it/) (2017), Membro [QGIS organization](https://github.com/qgis) (2020) | Ideatore della Guida [#HfcQGIS](http://hfcqgis.opendatasicilia.it/it/latest/) (2018))
+- **Totò FIANDACA** (aka pigreco) <br>(Membro [OpenDataSicilia](http://opendatasicilia.it/) (2014) | Membro [QGIS Italia](http://qgis.it/) (2015) | Socio [GFOSS.it](https://gfoss.it/) (2017) | Membro [QGIS organization](https://github.com/qgis) (2020) | Ideatore della Guida [#HfcQGIS](http://hfcqgis.opendatasicilia.it/it/latest/) (2018))
 
 <p align="center"><a href="" target="_blank"><img src="imgs/loghi.png" width="400" title="Totò FIANDACA"></a></p>
 
@@ -60,11 +60,45 @@ GeoBreak 28 - alla scoperta delle espressioni di QGIS
 
 ## Programma - in lavorazione
 
-1. Cosa sono le espressioni di QGIS;
-2. dove posso utilizzarle;
-3. come posso utilizzarle;
-4. sintassi;
-5. ...
+1. Cosa sono le espressioni di QGIS:
+   1. è un linguaggio misto;
+   2. funzionano solo all'interno della galassia QGIS;
+2. dove posso utilizzarle:
+   1. tabella degli attributi;
+   2. tematizzazione;
+   3. etichettatura;
+   4. selezione;
+   5. compositore di stampe, atlas e report;
+   6. strumenti di processing;
+   7. moduli inserimento dati e widget;
+   8. azioni;
+   9. modellatore grafico;
+   10. diagrammi;
+   11. filtri;
+   12. decorazioni;
+   13. proprietà layer: variabili;
+   14. ecc...
+3. come posso utilizzarle:
+   1. semplici funzioni;
+   2. semplici espressioni;
+   3. complesse espressioni;
+   4. creare nuovi campi;
+   5. aggiornare campi esistenti;
+   6. creare campi virtuali;
+4. guida in linea:
+   1. la guida e come richiamarla;
+   2. l'importanza delle definizioni delle funzioni;
+5. gui e sintassi:
+   1. la gui: area editor, area gruppi e area help in linea;
+   2. come funziona la sintassi;
+   3. paramentri denominati;
+   4. funzioni senza argomenti;
+6. primi esempi:
+   1. semplice calcolatrice;
+   2. funzioni semplici $area, $perimeter
+   3. generatore di geometrie (stile e label);
+   4. generare geometrie tramite espressioni (processing);
+7. 
 
 [↑ torna su ↑](#geobreack-28-by-gter)
 
@@ -81,7 +115,7 @@ GeoBreak 28 - alla scoperta delle espressioni di QGIS
 * **Facebook**: <https://www.facebook.com/pigreco314>
 * **Twitter**: <https://twitter.com/totofiandaca>
 
-#### Sitografia
+### Sitografia
 
 * **blog**: <https://pigrecoinfinito.com/>
 * **canale youtube**: <http://www.youtube.com/c/TotòFiandaca>
@@ -99,15 +133,12 @@ GeoBreak 28 - alla scoperta delle espressioni di QGIS
 
 # Riferimenti utili
 
+- **Gter srl** : <https://www.gter.it/>
 - **QGIS** : <https://qgis.org/it/site/>
 - **Repo QGIS** : <https://github.com/qgis/QGIS/blob/master/README.md>
-- **Plugin Gimp Selection Feature** : <https://plugins.qgis.org/plugins/gimpselectionfeature_plugin/>
-- **Plugin Magic Wand** : <https://plugins.qgis.org/plugins/MagicWand-master/>
-- **Consultazione cartografia catastale - WMS** : <https://www.agenziaentrate.gov.it/portale/web/guest/schede/fabbricatiterreni/consultazione-cartografia-catastale/servizio-consultazione-cartografia>
 - **Font Trueno** : <https://www.wfonts.com/font/trueno>
 - **Visual Style Guide** : <https://www.qgis.org/en/site/getinvolved/styleguide.html#trueno-fonts>
 - **Visual Studio Code** : <https://code.visualstudio.com/>
-- **onData** : <https://ondata.it/>
 - **OpenDataSicilia** : <http://opendatasicilia.it/>
 
 [↑ torna su ↑](#geobreack-28-by-gter)
