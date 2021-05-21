@@ -31,7 +31,7 @@ GeoBreak 28 - alla scoperta delle espressioni di QGIS
 
 **DESCRIZIONE**: <br> Obiettivo di questo GeoBreak è quello di evidenziare le potenzialità delle espressioni di **QGIS**: come usarle, dove usarle e perché non possiamo fare a meno del Field Calc di QGIS.
 
-<p align="center"><a href="https://" target="_blank"><img src="./imgs/II_Giugno.png" width="500" title="GeoBreak 28"></a></p>
+<p align="center"><a href="https://www.gter.it/" target="_blank"><img src="./imgs/II_Giugno.png" width="500" title="GeoBreak 28"></a></p>
 
 ---
 
