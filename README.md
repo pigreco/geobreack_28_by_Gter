@@ -31,7 +31,7 @@ GeoBreak 28 - alla scoperta delle espressioni di QGIS
 
 **DESCRIZIONE**: <br> Obiettivo di questo GeoBreak è quello di evidenziare le potenzialità delle espressioni di **QGIS**: come usarle, dove usarle e perché non possiamo fare a meno del Field Calc di QGIS.
 
-<p align="center"><a href="https://" target="_blank"><img src="./imgs/..." width="500" title="GeoBreak 28"></a></p>
+<p align="center"><a href="https://" target="_blank"><img src="./imgs/II_Giugno.png" width="500" title="GeoBreak 28"></a></p>
 
 ---
 
@@ -52,7 +52,7 @@ GeoBreak 28 - alla scoperta delle espressioni di QGIS
 
 ## Piattaforme e Software
 
-- [ZOOM](https://zoom.us/) - per diretta web
+- [gotomeet](https://www.gotomeeting.com/it-it/meeting/join-meeting) - per diretta web
 - Windows 10 64b - come SO
 - [`QGIS 3.18 Zürich`](https://qgis.org/it/site/)
 
@@ -78,21 +78,22 @@ GeoBreak 28 - alla scoperta delle espressioni di QGIS
    12. decorazioni;
    13. proprietà layer: variabili;
    14. ecc...
-3. come posso utilizzarle:
-   1. semplici funzioni;
-   2. semplici espressioni;
-   3. complesse espressioni;
-   4. creare nuovi campi;
-   5. aggiornare campi esistenti;
-   6. creare campi virtuali;
-4. guida in linea:
+3. guida in linea:
    1. la guida e come richiamarla;
    2. l'importanza delle definizioni delle funzioni;
-5. gui e sintassi:
+4. gui e sintassi:
    1. la gui: area editor, area gruppi e area help in linea;
    2. come funziona la sintassi;
    3. paramentri denominati;
    4. funzioni senza argomenti;
+5. come posso utilizzarle:
+   1. semplici funzioni;
+   2. semplici espressioni;
+   3. complesse espressioni;
+   4. richiamare altri layer;
+   5.  creare nuovi campi;
+   6.  aggiornare campi esistenti;
+   7.  creare campi virtuali;
 6. primi esempi:
    1. semplice calcolatrice;
    2. funzioni semplici $area, $perimeter
