@@ -77,7 +77,9 @@ GeoBreak 28 - alla scoperta delle espressioni di QGIS
    11. filtri;
    12. decorazioni;
    13. proprietà layer: variabili;
-   14. ecc...
+   14. statistiche;
+   15. suggerimenti mappa;
+   16. ecc...
 3. guida in linea:
    1. la guida e come richiamarla;
    2. l'importanza delle definizioni delle funzioni;
