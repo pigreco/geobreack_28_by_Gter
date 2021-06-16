@@ -14,12 +14,12 @@ GeoBreak 28 - alla scoperta delle espressioni di QGIS
   - [Relatore](#relatore)
   - [Data, luogo e durata](#data-luogo-e-durata)
   - [Piattaforme e Software](#piattaforme-e-software)
-  - [Programma - in lavorazione](#programma---in-lavorazione)
-  - [QGIS e le espressioni](#qgis-e-le-espressioni)
-  - [Contatti](#contatti)
-    - [Totò Fiandaca](#totò-fiandaca)
-    - [Sitografia](#sitografia)
-- [GeoBreak 28](#geobreak-28)
+- [Programma - in lavorazione](#programma---in-lavorazione)
+  - [Lo sapevi che](#lo-sapevi-che)
+  - [QGIS e le espressioni ESEMPI](#qgis-e-le-espressioni-esempi)
+- [Contatti](#contatti)
+  - [Totò Fiandaca](#totò-fiandaca)
+  - [Sitografia](#sitografia)
 - [Riferimenti utili](#riferimenti-utili)
 - [Cosa c'è in questo repo](#cosa-cè-in-questo-repo)
 
@@ -58,11 +58,13 @@ GeoBreak 28 - alla scoperta delle espressioni di QGIS
 
 <p align="center"><a href="" target="_blank"><img src="imgs/splash_3_18.png" width="400" title="Totò FIANDACA"></a></p>
 
-## Programma - in lavorazione
+# Programma - in lavorazione
+
+## Lo sapevi che
 
 1. Cosa sono le espressioni di QGIS:
-   1. è un linguaggio misto;
-   2. funzionano solo all'interno della galassia QGIS;
+   1. linguaggio misto;
+   2. funzionano solo all'interno di QGIS;
 2. dove posso utilizzarle:
    1. tabella degli attributi;
    2. tematizzazione;
@@ -93,9 +95,9 @@ GeoBreak 28 - alla scoperta delle espressioni di QGIS
    2. semplici espressioni;
    3. complesse espressioni;
    4. richiamare altri layer;
-   5.  creare nuovi campi;
-   6.  aggiornare campi esistenti;
-   7.  creare campi virtuali;
+   5. creare nuovi campi;
+   6. aggiornare campi esistenti;
+   7. creare campi virtuali;
 6. primi esempi:
    1. semplice calcolatrice;
    2. funzioni semplici $area, $perimeter
@@ -105,20 +107,21 @@ GeoBreak 28 - alla scoperta delle espressioni di QGIS
 
 [↑ torna su ↑](#geobreack-28-by-gter)
 
-## QGIS e le espressioni
+## QGIS e le espressioni ESEMPI
 
+Le espressioni di QGIS permettono di velocizzare il lavoro in QGIS
 
 [↑ torna su ↑](#geobreack-28-by-gter)
 
-## Contatti
+# Contatti
 
-### Totò Fiandaca
+## Totò Fiandaca
 
 * **Mail**: <pigrecoinfinito@gmail.com>
 * **Facebook**: <https://www.facebook.com/pigreco314>
 * **Twitter**: <https://twitter.com/totofiandaca>
 
-### Sitografia
+## Sitografia
 
 * **blog**: <https://pigrecoinfinito.com/>
 * **canale youtube**: <http://www.youtube.com/c/TotòFiandaca>
@@ -130,9 +133,6 @@ GeoBreak 28 - alla scoperta delle espressioni di QGIS
 * **Canale Telegram** : <https://t.me/pigrecoinfinito>
 
 [↑ torna su ↑](#geobreack-28-by-gter)
-
-# GeoBreak 28
-
 
 # Riferimenti utili
 
