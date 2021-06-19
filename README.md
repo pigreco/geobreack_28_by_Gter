@@ -62,7 +62,7 @@ GeoBreak 28 - alla scoperta delle espressioni di QGIS
 
 ## Lo sapevi che
 
-1. Cosa sono le espressioni di QGIS:
+1. Le espressioni di QGIS:
    1. linguaggio misto;
    2. funzionano solo all'interno di QGIS;
 2. dove posso utilizzarle:
@@ -85,6 +85,7 @@ GeoBreak 28 - alla scoperta delle espressioni di QGIS
 3. guida in linea:
    1. la guida e come richiamarla;
    2. l'importanza delle definizioni delle funzioni;
+   3. [#HfcQGIS](http://hfcqgis.opendatasicilia.it/it/latest/)
 4. gui e sintassi:
    1. la gui: area editor, area gruppi e area help in linea;
    2. come funziona la sintassi;
@@ -102,14 +103,15 @@ GeoBreak 28 - alla scoperta delle espressioni di QGIS
    1. semplice calcolatrice;
    2. funzioni semplici $area, $perimeter
    3. generatore di geometrie (stile e label);
-   4. generare geometrie tramite espressioni (processing);
-7. 
+   4. generare geometrie tramite espressioni (processing).
 
 [↑ torna su ↑](#geobreack-28-by-gter)
 
 ## QGIS e le espressioni ESEMPI
 
 Le espressioni di QGIS permettono di velocizzare il lavoro in QGIS
+
+slide : <https://docs.google.com/presentation/d/1--N6BD-Q4nZ6KZ1RAGX_9t1R4WIgy4nvFGDxZwxtfQ8/edit?usp=sharing>
 
 [↑ torna su ↑](#geobreack-28-by-gter)
 
