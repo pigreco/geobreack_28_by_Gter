@@ -14,7 +14,7 @@ GeoBreak 28 - alla scoperta delle espressioni di QGIS
   - [Relatore](#relatore)
   - [Data, luogo e durata](#data-luogo-e-durata)
   - [Piattaforme e Software](#piattaforme-e-software)
-- [Programma - in lavorazione](#programma---in-lavorazione)
+- [Programma](#programma)
   - [Lo sapevi che](#lo-sapevi-che)
   - [QGIS e le espressioni ESEMPI](#qgis-e-le-espressioni-esempi)
 - [Contatti](#contatti)
@@ -58,7 +58,7 @@ GeoBreak 28 - alla scoperta delle espressioni di QGIS
 
 <p align="center"><a href="" target="_blank"><img src="imgs/splash_3_18.png" width="400" title="Totò FIANDACA"></a></p>
 
-# Programma - in lavorazione
+# Programma
 
 ## Lo sapevi che
 
