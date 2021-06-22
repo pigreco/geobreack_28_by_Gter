@@ -56,9 +56,9 @@ GeoBreak 28 - alla scoperta delle espressioni di QGIS
 
 - [gotomeet](https://www.gotomeeting.com/it-it/meeting/join-meeting) - per diretta web
 - Windows 10 64b - come SO
-- [`QGIS 3.18 Zürich`](https://qgis.org/it/site/)
+- [`QGIS 3.20 RC Odense`](https://qgis.org/it/site/)
 
-<p align="center"><a href="" target="_blank"><img src="imgs/splash_3_18.png" width="400" title="Totò FIANDACA"></a></p>
+<p align="center"><a href="" target="_blank"><img src="imgs/splash320-rc.png" width="500" title="QGIS 3.20 RC Odense"></a></p>
 
 # Programma
 
