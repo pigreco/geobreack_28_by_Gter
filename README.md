@@ -44,6 +44,8 @@ GeoBreak 28 - alla scoperta delle espressioni di QGIS
 
 <p align="center"><a href="" target="_blank"><img src="imgs/loghi.png" width="400" title="Totò FIANDACA"></a></p>
 
+<p align="center"><a href="" target="_blank"><img src="imgs/splashDEV.png" width="600" title="Totò FIANDACA"></a></p>
+
 ## Data, luogo e durata
 
 - 🗓 23/06/2021 con orario  🕟 08.30 🕢 09.30 
@@ -111,7 +113,7 @@ GeoBreak 28 - alla scoperta delle espressioni di QGIS
 
 Le espressioni di QGIS permettono di velocizzare il lavoro in QGIS
 
-slide : <https://docs.google.com/presentation/d/1--N6BD-Q4nZ6KZ1RAGX_9t1R4WIgy4nvFGDxZwxtfQ8/edit?usp=sharing>
+slide : shorturl.at/jsCDI
 
 [↑ torna su ↑](#geobreack-28-by-gter)
 
