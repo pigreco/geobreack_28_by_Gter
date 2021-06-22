@@ -54,7 +54,7 @@ GeoBreak 28 - alla scoperta delle espressioni di QGIS
 
 ## Piattaforme e Software
 
-- [gotomeet](https://www.gotomeeting.com/it-it/meeting/join-meeting) - per diretta web
+- [gotomeet](https://www.gotomeet.me/GTER1/geobreak) - per diretta web
 - Windows 10 64b - come SO
 - [`QGIS 3.20 RC Odense`](https://qgis.org/it/site/)
 
