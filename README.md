@@ -113,7 +113,8 @@ GeoBreak 28 - alla scoperta delle espressioni di QGIS
 
 Le espressioni di QGIS permettono di velocizzare il lavoro in QGIS
 
-slide : shorturl.at/jsCDI
+- **slide** : <https://docs.google.com/presentation/d/e/2PACX-1vQb1Ob4fa-lROXPBHDqAmyvmfH_ftnJKvQ22XC5SXjQC7TO7jTZE2L4LgJtznBdeGkgamVeqkbkhpeE/pub?start=false&loop=false&delayms=3000>
+- **video youtube** : <https://youtu.be/tHrJNs3njrM>
 
 [↑ torna su ↑](#geobreack-28-by-gter)
 
